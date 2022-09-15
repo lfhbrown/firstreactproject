@@ -1,0 +1,14 @@
+One of the challenges that I had when attempting to run npm start in the terminal was this error:
+
+'react-scripts' is not recognized as an internal or external command
+
+I found a solution on stackoverflow at this url https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command
+
+This is an error about react-scripts file missing in your node_modules/ directory at the time of installation.
+To resolve this issue you first check if your react-script dependency is avaliable or not in package.json. If not available then add it manually via:
+
+npm install react-scripts --save
+
+After this I was able to rung npm start and see my project in the browser.
+
+=============================================================================================================================================================
