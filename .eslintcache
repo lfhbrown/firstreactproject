@@ -8,31 +8,31 @@
   },
   {
     "size": 283,
-    "mtime": 1663214469460,
+    "mtime": 1663413953922,
     "results": "6",
     "hashOfConfig": "7"
   },
   {
-    "size": 863,
-    "mtime": 1663394746038,
+    "size": 680,
+    "mtime": 1663413952317,
     "results": "8",
     "hashOfConfig": "7"
   },
   {
-    "size": 1202,
-    "mtime": 1663289723408,
+    "size": 422,
+    "mtime": 1663413951048,
     "results": "9",
     "hashOfConfig": "7"
   },
   {
-    "size": 1142,
-    "mtime": 1663302335519,
+    "size": 517,
+    "mtime": 1663413950261,
     "results": "10",
     "hashOfConfig": "7"
   },
   {
-    "size": 516,
-    "mtime": 1663394740407,
+    "size": 483,
+    "mtime": 1663413953097,
     "results": "11",
     "hashOfConfig": "7"
   },
@@ -43,13 +43,12 @@
     "fatalErrorCount": 0,
     "warningCount": 0,
     "fixableErrorCount": 0,
-    "fixableWarningCount": 0,
-    "usedDeprecatedRules": "14"
+    "fixableWarningCount": 0
   },
   "1g6b4gk",
   {
-    "filePath": "15",
-    "messages": "16",
+    "filePath": "14",
+    "messages": "15",
     "errorCount": 0,
     "fatalErrorCount": 0,
     "warningCount": 0,
@@ -57,28 +56,26 @@
     "fixableWarningCount": 0
   },
   {
-    "filePath": "17",
-    "messages": "18",
+    "filePath": "16",
+    "messages": "17",
     "errorCount": 0,
     "fatalErrorCount": 0,
     "warningCount": 0,
     "fixableErrorCount": 0,
-    "fixableWarningCount": 0,
-    "usedDeprecatedRules": "14"
+    "fixableWarningCount": 0
   },
   {
-    "filePath": "19",
-    "messages": "20",
+    "filePath": "18",
+    "messages": "19",
     "errorCount": 0,
     "fatalErrorCount": 0,
     "warningCount": 0,
     "fixableErrorCount": 0,
-    "fixableWarningCount": 0,
-    "usedDeprecatedRules": "14"
+    "fixableWarningCount": 0
   },
   {
-    "filePath": "21",
-    "messages": "22",
+    "filePath": "20",
+    "messages": "21",
     "errorCount": 0,
     "fatalErrorCount": 0,
     "warningCount": 0,
@@ -87,10 +84,6 @@
   },
   "C:\\Users\\LFHbr\\OneDrive\\Documents\\Coding\\01-starting-setup\\01-starting-setup\\src\\index.js",
   [],
-  [
-    "23",
-    "24"
-  ],
   "C:\\Users\\LFHbr\\OneDrive\\Documents\\Coding\\01-starting-setup\\01-starting-setup\\src\\App.js",
   [],
   "C:\\Users\\LFHbr\\OneDrive\\Documents\\Coding\\01-starting-setup\\01-starting-setup\\src\\components\\ExpenseItem.js",
@@ -98,23 +91,5 @@
   "C:\\Users\\LFHbr\\OneDrive\\Documents\\Coding\\01-starting-setup\\01-starting-setup\\src\\components\\ExpenseDate.js",
   [],
   "C:\\Users\\LFHbr\\OneDrive\\Documents\\Coding\\01-starting-setup\\01-starting-setup\\src\\components\\ExpenseItemDisplay.js",
-  [],
-  {
-    "ruleId": "25",
-    "replacedBy": "26"
-  },
-  {
-    "ruleId": "27",
-    "replacedBy": "28"
-  },
-  "no-native-reassign",
-  [
-    "29"
-  ],
-  "no-negated-in-lhs",
-  [
-    "30"
-  ],
-  "no-global-assign",
-  "no-unsafe-negation"
+  []
 ]

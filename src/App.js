@@ -22,11 +22,10 @@ function App() {
       date: new Date(2021, 5, 12),
     },
   ];
-  //I need to render my ExpenseItem component in ExpenseItemDisplay and have my ExpenseItemDisplay component here instead of all the code on lines 30-54 to make this App.js file leaner.
   return (
     <div>
       <h2>Let's get started!</h2>
-      <ExpenseItemDisplay felix={expenses} />
+      <ExpenseItemDisplay expenses={expenses} />
     </div>
   );
 }

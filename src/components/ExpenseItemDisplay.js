@@ -2,11 +2,10 @@ import "./ExpenseItemDisplay.css";
 import ExpenseItem from "./ExpenseItem";
 
 function ExpenseItemDisplay(props) {
-  //   const { expenses } = props;
   console.log(props);
   return (
     <div className="expenses">
-      {props.felix.map((expense) => {
+      {props.expenses.map((expense) => {
         return (
           <ExpenseItem
             title={expense.title}
