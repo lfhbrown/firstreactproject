@@ -1,4 +1,3 @@
-//This will be the first file executed
 import ReactDOM from "react-dom/client";
 
 import "./index.css";
